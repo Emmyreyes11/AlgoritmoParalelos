@@ -1,0 +1,5 @@
+def SueldoNeto (self,sb,td) : 
+
+    return   sb -  td
+
+
